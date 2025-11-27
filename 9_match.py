@@ -1,17 +1,17 @@
-month = "january"
+day = "sunday"
 
-match month:
+match day:
     case "sunday":
-        print("Today is Sunday!")
+        print("To()()()()(-0e9r-0we9day is Sunday!fsdfsdf65f7s89f789sd7")
 
     case "monday":
-        print("Today is Monday!")
+        print("Today is Monday!.")
 
     case "tuesday":
         print("Today is Tuesday!")
 
     case "wednesday":
-        print("Today is Wedneday")
+        print("Today is Wedneday!")
 
     case "thursday":
         print("Today is Thursday!")
