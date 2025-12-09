@@ -1,0 +1,17 @@
+1995
+Data Types
+Classification of data is called data types.
+
+Primitive Data Types
+===================
+String : "Ram Thapa" or 'KTM 515'
+Number :
+ - Integer : 9865566
+ - Foating : : 955.345
+Boolean : True or False
+
+Non-Primitive Data Types
+===================
+
+# Variables ?
+===================
