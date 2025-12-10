@@ -2,6 +2,7 @@
 Data Types
 Classification of data is called data types.
 
+# Data Types
 Primitive Data Types
 ===================
 String : "Ram Thapa" or 'KTM 515'
@@ -15,3 +16,13 @@ Non-Primitive Data Types
 
 # Variables ?
 ===================
+a to z
+A to Z
+1first
+_*&%&^^%&^_
+
+Variable Names
+===================
+Camel Case = firstName || firstMiddleLast
+Pascal Case = FirstName || FirstMiddleLast
+Snake Case = first_name || first_middle_last
