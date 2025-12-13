@@ -1,25 +1,29 @@
-1995
-Data Types
-Classification of data is called data types.
+Invented on 1995
 
-# Data Types
+Data Types
+: Classification of data is called data types.
+
+#1 Data Types
 Primitive Data Types
 ===================
 String : "Ram Thapa" or 'KTM 515'
 Number :
  - Integer : 9865566
- - Foating : : 955.345
+ - Floating : : 955.345
 Boolean : True or False
 
 Non-Primitive Data Types
 ===================
 
-# Variables ?
+
+#2 Variables ?
 ===================
 a to z
 A to Z
 1first
 _*&%&^^%&^_
+
+name = "Ram"
 
 Variable Names
 ===================
