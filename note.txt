@@ -30,3 +30,7 @@ Variable Names
 Camel Case = firstName || firstMiddleLast
 Pascal Case = FirstName || FirstMiddleLast
 Snake Case = first_name || first_middle_last
+
+#3 Operators
+=================
+- Arithmetic Operators
