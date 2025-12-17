@@ -1,0 +1,20 @@
+Student Result Calculator
+=========================
+math = 99
+english = 99
+nepali = 39
+
+total = math + english + nepali
+percentage = (total/300)*100
+division = ......
+remarks = failed/passed
+
+
+
+
+
+# {} Interpulation
+# A string is an ordered sequence of characters
+# Single Quote: "() jslfsl 7900900 tet0ti0et"
+# Double Quote 'fsdfsdfsdf'
+# def: "Defined"
