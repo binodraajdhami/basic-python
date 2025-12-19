@@ -1,0 +1,68 @@
+Student Result Calculator
+=========================
+math = 99
+english = 99
+nepali = 39
+account = 80
+social = 80
+
+total = math + english + nepali + account + social
+percentage = (total/500) * 100
+remark = 
+division = if()
+
+total = math + english + nepali
+percentage = (total/300)*100
+division = ......
+remarks = failed/passed
+
+Nested if
+if():
+    if():
+        //
+    else:
+        //
+else:
+    //
+
+
+# {} Interpulation
+# A string is an ordered sequence of characters
+# Single Quote: "() jslfsl 7900900 tet0ti0et"
+# Double Quote 'fsdfsdfsdf'
+# def: "Defined"
+
+
+
+# Concatenation
+# print("Total :", total)
+# a = 10/3
+# print(round(a, 2))
+
+Nested Condition
+
+if():
+    if():
+        if():
+            // code
+        else:
+            // code
+    else:
+        // code
+else:
+    // code
+
+
+
+In Python Shorthand
+x = true
+
+========================
+if(x):
+    print("Passed")
+else:
+    print("Failed")
+
+========================
+x ? "Passed" : "Failed"
+
